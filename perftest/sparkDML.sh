@@ -26,8 +26,8 @@
 # Environment
 
 # Following variables must be rewritten by your installation paths.
-DEFAULT_SPARK_HOME=/home/jleang/wormhole/spark
-DEFAULT_SYSTEMML_HOME=/home/jleang/wormhole/systemml-perftest/perftest
+DEFAULT_SPARK_HOME=/home/jleang/Wormhole/trunk/spark
+DEFAULT_SYSTEMML_HOME=/home/jleang/Wormhole/trunk/systemml-perftest/perftest
 
 if [ -z ${SPARK_HOME} ]; then
   SPARK_HOME=${DEFAULT_SPARK_HOME}
