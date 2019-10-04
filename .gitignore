@@ -1,2 +1,7 @@
 perftest/SystemML.jar
 perftest/sparkDML.sh
+perftest/times.txt
+perftest/try-again/
+times.txt
+logs/
+perftest/logs/

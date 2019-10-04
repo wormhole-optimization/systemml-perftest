@@ -41,7 +41,7 @@ fi
 
 master="--master local"
 deploy_mode="--deploy-mode client"
-driver_memory="--driver-memory 20G"
+driver_memory="--driver-memory 8G"
 num_executors="--num-executors 5"
 executor_memory="--executor-memory 60G"
 executor_cores="--executor-cores 24"
